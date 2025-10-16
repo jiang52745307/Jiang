@@ -26,7 +26,7 @@
 
 1. 克隆仓库
 ```
-git clone https://github.com/yourusername/future-letter.git
+git clone https://github.com/jiang52745307/Jiang/pull/1#issue-3522516801
 cd future-letter
 ```
 
@@ -74,3 +74,4 @@ npm start
 
 
 MIT 
+
