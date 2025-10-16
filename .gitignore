@@ -1,0 +1,23 @@
+# 依赖目录
+node_modules/
+
+# 环境变量
+.env
+
+# 日志文件
+logs
+*.log
+npm-debug.log*
+
+# 运行时数据
+letters.json
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器目录和文件
+.idea/
+.vscode/
+*.swp
+*.swo 
