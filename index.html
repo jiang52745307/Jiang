@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>时光邮局 - 写给未来的信</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>时光邮局</h1>
+            <p class="subtitle">写一封信，寄给未来的自己</p>
+        </header>
+
+        <main>
+            <div class="letter-form">
+                <div class="form-group">
+                    <label for="email">你的邮箱</label>
+                    <input type="email" id="email" placeholder="example@mail.com" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="future-date">选择未来的日期</label>
+                    <input type="date" id="future-date" required>
+                </div>
+
+                <div class="form-group">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="send-now"> 
+                        <span>立即发送（测试功能）</span>
+                    </label>
+                    <p class="hint">选中此项将立即发送邮件，用于测试系统是否正常工作</p>
+                </div>
+
+                <div class="form-group">
+                    <label for="subject">信件主题</label>
+                    <input type="text" id="subject" placeholder="给未来的自己" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="message">信件内容</label>
+                    <textarea id="message" rows="10" placeholder="亲爱的未来的我..." required></textarea>
+                </div>
+
+                <button id="send-button" class="btn-send">寄出信件</button>
+            </div>
+
+            <div id="success-message" class="success-message hidden">
+                <h2>信件已寄出！</h2>
+                <p>你的信件将在指定的日期发送到你的邮箱。</p>
+                <p>感谢使用时光邮局，期待与未来的你相遇。</p>
+                <button id="write-another" class="btn-secondary">再写一封</button>
+            </div>
+        </main>
+
+        <footer>
+            <p>时光邮局 &copy; 2025 by 姜 - 让时间传递你的思念</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

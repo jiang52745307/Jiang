@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1740843681699",
+    "email": "2567889036@qq.com",
+    "futureDate": "2025-03-15T00:00:00.000Z",
+    "subject": "见过",
+    "message": "监管机构",
+    "sent": true
+  },
+  {
+    "id": "1740844051939",
+    "email": "2567889036@qq.com",
+    "futureDate": "2025-03-16T00:00:00.000Z",
+    "subject": "月黑风高",
+    "message": "熔沸点",
+    "sent": false
+  },
+  {
+    "id": "1740846761235",
+    "email": "3244989574@qq.com",
+    "futureDate": "2025-03-01T16:33:41.173Z",
+    "subject": "时光邮局API测试",
+    "message": "这是一封测试信件，通过API发送。发送时间: 2025/3/2 00:32:41",
+    "sent": true
+  },
+  {
+    "id": "1740847329723",
+    "email": "3244989574@qq.com",
+    "futureDate": "2025-03-02T00:00:00.000Z",
+    "subject": "ss",
+    "message": "sss",
+    "sent": true
+  },
+  {
+    "id": "1740847528938",
+    "email": "2567889036@qq.com",
+    "futureDate": "2025-03-02T00:00:00.000Z",
+    "subject": "666",
+    "message": "666",
+    "sent": true
+  },
+  {
+    "id": "1740847579031",
+    "email": "3244989574@qq.com",
+    "futureDate": "2025-03-02T00:00:00.000Z",
+    "subject": "ds",
+    "message": "sa",
+    "sent": true
+  },
+  {
+    "id": "1740847719364",
+    "email": "2567889036@qq.com",
+    "futureDate": "2025-03-01T16:48:39.361Z",
+    "subject": "dfsds",
+    "message": "sdsd",
+    "sent": true
+  },
+  {
+    "id": "1742025424053",
+    "email": "jiangdonghua20@gmail.com",
+    "futureDate": "2025-03-15T07:57:04.041Z",
+    "subject": "饿的",
+    "message": "6666",
+    "sent": true
+  },
+  {
+    "id": "1742025478322",
+    "email": "jiangdonghua20@gmail.com",
+    "futureDate": "2025-03-15T07:57:58.317Z",
+    "subject": "5555",
+    "message": "66666",
+    "sent": true
+  },
+  {
+    "id": "1742025836873",
+    "email": "jiangdonghua20@gmail.com",
+    "futureDate": "2025-03-15T08:03:56.854Z",
+    "subject": "多少度",
+    "message": "上",
+    "sent": true
+  },
+  {
+    "id": "1742025979394",
+    "email": "2567889036@qq.com",
+    "futureDate": "2025-03-15T08:06:19.391Z",
+    "subject": "实时",
+    "message": "姜",
+    "sent": true
+  },
+  {
+    "id": "1742026370283",
+    "email": "2567889036@qq.com",
+    "futureDate": "2025-03-15T08:12:50.280Z",
+    "subject": "66",
+    "message": "66666666666666666666666666666666666666",
+    "sent": true
+  }
+]

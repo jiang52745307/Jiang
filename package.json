@@ -1,0 +1,28 @@
+{
+  "name": "future-letter",
+  "version": "1.0.0",
+  "description": "一个简单的时光邮局应用，可以发送信件给未来的自己",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "time-capsule",
+    "future",
+    "letter",
+    "email"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+} 
